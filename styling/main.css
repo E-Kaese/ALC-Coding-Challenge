@@ -12,3 +12,9 @@ body {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+
+@media only screen and (max-width: 600px) {
+    .block {
+        width: 95%;
+    }
+}
