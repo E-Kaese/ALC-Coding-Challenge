@@ -1,0 +1,14 @@
+body {
+    background: url("what-the-hex-dark.png"), repeat;
+}
+
+.block {
+    width: 33.3333%;
+    height: auto;
+}
+
+.custom-select {
+    border-radius: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
